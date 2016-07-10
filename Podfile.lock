@@ -1,0 +1,16 @@
+PODS:
+  - QQLDanMuViewController (0.0.1)
+
+DEPENDENCIES:
+  - QQLDanMuViewController (from `./`)
+
+EXTERNAL SOURCES:
+  QQLDanMuViewController:
+    :path: ./
+
+SPEC CHECKSUMS:
+  QQLDanMuViewController: d51a402ba570e66bf6842c1eb2d83dcadf91fb7b
+
+PODFILE CHECKSUM: acdfd07c5aea438a5aae8a51b5eb47412ca8ac28
+
+COCOAPODS: 1.0.1
